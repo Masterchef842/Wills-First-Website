@@ -5,10 +5,12 @@
 }
 header{
     color: antiquewhite;
+    position: fixed;
     background-color: darkolivegreen;
+    width: 98%;
     text-align: right;
     border: solid 10px rgb(187, 168, 82);
-    
+    z-index: 50;
 }
 li{
     display: inline;
